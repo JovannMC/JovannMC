@@ -1,5 +1,5 @@
 ### Hello hi!
-* I'm an idiot who does random stuff on the internet, sometimes codes, and does dumb stuff at [YeahNet](https://yeahnet.dev).<br>
+* I'm an idiot who does random stuff on the internet, sometimes codes, and does dumb stuff for [femboyfurry.net](https://femboyfurry.net).<br>
 * Check out my website @ [femboyfurry.net](https://femboyfurry.net) or check out some of my repositories!
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=JovannMC&&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
