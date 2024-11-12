@@ -5,10 +5,7 @@
 <br><br>
 * Check out my website @ [jovann.me](https://jovann.me) or some of my other repositories!
 
-<div align="center">
-  
 [![wakatime](https://wakatime.com/badge/user/3f0ed1ab-5102-42ce-9a32-d63c5d9e840c.svg)](https://wakatime.com/@3f0ed1ab-5102-42ce-9a32-d63c5d9e840c)
 ![Stats](https://github-readme-stats.vercel.app/api?username=JovannMC&&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannMC&hide_title=true&theme=github_dark&hide_border=true&layout=compact)
 
-</div>
