@@ -21,5 +21,5 @@ Here are some of the projects I've been working on:
 ### Some cool stats
 
 ![JovannMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JovannMC&&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannMC&hide_title=true&theme=github_dark&hide_border=true&layout=compact&hide=shaderlab,C%23)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannMC&hide_title=true&theme=github_dark&hide_border=true&layout=compact&hide=shaderlab,C%23,css,hlsl)
 
