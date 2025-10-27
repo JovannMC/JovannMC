@@ -1,5 +1,3 @@
-[![wakatime](https://wakatime.com/badge/user/3f0ed1ab-5102-42ce-9a32-d63c5d9e840c.svg)](https://wakatime.com/@3f0ed1ab-5102-42ce-9a32-d63c5d9e840c)
-
 ### Hey I'm Maya!
 * ..or better known as JovannMC online!
 * I'm an idiot who does random stuff on the internet, sometimes codes, and hosts dumb stuff for [femboyfurry.net](https://femboyfurry.net).
@@ -20,6 +18,6 @@ Here are some of the projects I've been working on:
 
 ### Some cool stats
 
-![JovannMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JovannMC&&hide_title=true&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JovannMC&hide_title=true&theme=github_dark&hide_border=true&layout=compact&hide=shaderlab,C%23,css,hlsl)
+![JovannMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=JovannMC&hide_title=true&show_icons=true&theme=transparent&hide_border=true)
+![Top Langs](https://github-readme-stats.hackclub.dev/api/wakatime?username=2036&api_domain=hackatime.hackclub.com&theme=transparent&layout=compact&cache_seconds=0&langs_count=8&hide=%3C%3Clast_language%3E%3E&hide_border=true&hide_title=true)
 
