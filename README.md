@@ -3,6 +3,8 @@
 * I'm an idiot who does random stuff on the internet, sometimes codes, and hosts dumb stuff for [femboyfurry.net](https://femboyfurry.net).
 * You can find more about me and my work on my website: [jovann.me](https://jovann.me)
 
+![jovannmc Discord Banner](https://discord.c99.nl/widget/theme-1/319116998384680960.png)
+
 ---
 
 ### Some things I worked on
